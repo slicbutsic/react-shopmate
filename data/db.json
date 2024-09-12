@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": "10001",
+      "name": "1984",
+      "price": 39,
+      "in_stock": true
+    },
+    {
+      "id": "10002",
+      "name": "The Great Gatsby",
+      "price": 29,
+      "in_stock": true
+    },
+    {
+      "id": "10003",
+      "name": "The Catcher in the Rye",
+      "price": 19, "in_stock": true
+    },
+    {
+      "id": "10004",
+      "name": "The Night Circus",
+      "price": 55,
+      "in_stock": false
+    },
+    {
+      "id": "10005",
+      "name": "Another book",
+      "price": 25,
+      "in_stock": true
+    }
+  ]
+}
