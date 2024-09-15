@@ -10,7 +10,7 @@
       "id": "10002",
       "name": "The Great Gatsby",
       "price": 29,
-      "in_stock": true
+      "in_stock": false
     },
     {
       "id": "10003",

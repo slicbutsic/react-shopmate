@@ -14,10 +14,10 @@ Shopmate is a project designed to help you manage your shopping experience. This
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/slicbutsic/shopmate-react.git
-   cd shopmate
+   git clone https://github.com/slicbutsic/react-shopmate.git
+   cd react-shopmate
 
-2. **Instal Dependencies**
+2. **Install Dependencies**
 
   npm install
 
